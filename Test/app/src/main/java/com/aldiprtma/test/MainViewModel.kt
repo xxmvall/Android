@@ -5,4 +5,9 @@ class MainViewModel {
         get() {
             TODO()
         }
+
+    val ipin : String
+        get() {
+            TODO()
+        }
 }
