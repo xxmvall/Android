@@ -10,4 +10,10 @@ class MainViewModel {
         get() {
             TODO()
         }
+
+
+    val ipn : String
+        get() {
+            TODO()
+        }
 }
